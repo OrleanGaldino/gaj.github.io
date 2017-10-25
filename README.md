@@ -1,4 +1,4 @@
 # http//: gaj.github.io
 
-GAJ 
+GAJ - 
 Gerenciador de Acompanhamento Jurídico
