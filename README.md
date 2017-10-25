@@ -1,4 +1,4 @@
-# hhttps://orleangaldino.github.io/gajp/
+# hhttps://orleangaldino.github.io
 
 GAJ - 
 Gerenciador de Acompanhamento Jurídico
